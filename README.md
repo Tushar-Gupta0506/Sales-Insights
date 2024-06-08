@@ -22,5 +22,5 @@ Here's a glimpse of what I achieved 💯:
 This project 🗂️ was a rewarding exercise in data transformation and business intelligence. It allowed me to showcase my technical skills, collaborate 🤝 with knowledgeable colleagues, and contribute directly to AtliQ's sales success 🏆💯.
 
 ## Explore the Reports
-Curious to explore the insights and reports generated from this project? [Click here to view the dashboard](#).
+Curious to explore the insights and reports generated from this project? [Click here](https://github.com/Tushar-Gupta0506/Sales-Insights/blob/main/AtliQ%20Sales%20Report.xlsx).
 
